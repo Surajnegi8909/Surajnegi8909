@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Suraj Negi
 - 👀 I’m interested in mobile app development 
-- 🌱 I’m currently learning React Native
-- 💞️
+- 🌱 I’m currently learning Compose.
 - 📫 How to reach me ...
 
 <!---
